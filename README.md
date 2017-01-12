@@ -80,7 +80,7 @@ v = vector_scale_y(v, 0);
 v = vector_scale_z(v, 0);
 ```
 
-### Perspective
+### Perspective (not implemented)
 /!\ The projection do not compute angle distortion.
 It return a vector with x and y projection and z base value. (useful for z-buffer)
 ```c
